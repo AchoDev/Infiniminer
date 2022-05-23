@@ -5,6 +5,13 @@ Wallet mining is essentially stealing lost wallets. But sadly many people can's 
 trojan. This is why I made my own version. If you have a friend who showed you something like this, install infiniminer, trick them into believing
 you are a genius and then demonstrate how easy it is to do.
 
-# Installation
+### Installation
 
 Install the latest Version of python and the repository then run using terminal or Visual Studio Code 
+
+### Required libraries 
+
+- simple_term_menu
+- termcolor
+
+Install using `pip install [library]`
